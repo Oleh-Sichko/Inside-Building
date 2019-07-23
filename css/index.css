@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Fascinate&display=swap');
+
+h1 {
+    color: rgb(166, 255, 0);
+    text-align: center;
+    font-family: 'Fascinate', cursive;
+    font-size: 3rem;
+}
+
+body {
+    background-color: black;
+    max-width: 1980px;
+    min-width: 320px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+p {
+    color: blue;
+}
+
+a:hover {
+    font-weight: bold;
+}

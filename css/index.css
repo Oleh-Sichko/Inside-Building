@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Fascinate&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
 
 h1 {
     color: rgb(166, 255, 0);
@@ -24,3 +25,11 @@ p {
 a:hover {
     font-weight: bold;
 }
+
+ a {
+     font-family: 'Audiowide', cursive;
+ }
+
+ body {
+     background-image: url(../img/backgro.jpg);
+ }
